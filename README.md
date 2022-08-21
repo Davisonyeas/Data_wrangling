@@ -1,6 +1,5 @@
 ## WeRateDogs wrangle_report
 
-About Project: 
 Many people are running social media accounts for their cute dogs. However, most of them usually aren’t running their social media accounts very well due to lacking the knowledge of what the audiences like and what factor drives their favorite and retweet counts.
 
 ![IMG_0503 2](https://user-images.githubusercontent.com/72320718/185775523-f49640dd-bc94-436f-9ac4-ec8fae6328c6.jpg)
