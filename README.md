@@ -1,6 +1,6 @@
 ## WeRateDogs wrangle_report
 
-![PUPPY]!(https://drive.google.com/file/d/1AHhh7qwEOy92P3tTW0q_Ri-xyUV9T9ft/view?usp=sharing)
+![PUPPY](https://drive.google.com/file/d/1AHhh7qwEOy92P3tTW0q_Ri-xyUV9T9ft/view?usp=sharing)
 
 This report describes the wrangling processes done for the WeRateDogs project, the datasets were cleaned and made ready for analysis.
 Data Wrangling: It refers to a variety of processes designed to transform raw data into more readily used formats. The exact methods differ from project to project depending on the data you're leveraging and the goal you're trying to achieve.
